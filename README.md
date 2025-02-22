@@ -12,25 +12,21 @@ I'm a passionate software developer with a focus on full-stack development, open
 ### Languages
 
 - JavaScript
-- Python
+- PHP
 - Java
 - HTML & CSS
 
 ### Frameworks & Libraries
 
 - React
+- Next
 - Node.js
-- Express
-- Django
 - Spring Boot
 
 ### Tools & Technologies
 
 - Git & GitHub
-- Docker
-- Kubernetes
 - AWS
-- CI/CD
 
 ## GitHub Stats
 
